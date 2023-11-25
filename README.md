@@ -1,1 +1,1 @@
--aisupport-ai-bot
+support-ai-bot
