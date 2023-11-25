@@ -1,1 +1,1 @@
-support-ai-bot
+-bot
