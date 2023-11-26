@@ -1,2 +1,2 @@
 -bot
--ai-bot
+-bot
