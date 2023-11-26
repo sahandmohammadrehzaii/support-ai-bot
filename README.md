@@ -1,2 +1,2 @@
 -ai-bot
-support-ai-bot
+-ai-bot
