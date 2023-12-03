@@ -1,6 +1,6 @@
 
 #
 
-<h1>desgined by sahand mohammadrezaiiee</h1>
+<h1>desgined by sahand mohammad rezaiiee</h1>
 
 #
